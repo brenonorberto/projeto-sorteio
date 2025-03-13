@@ -25,9 +25,9 @@ O projeto utiliza [Node.js](https://nodejs.org/) para rodar. Certifique-se de qu
 npm install
 ```
 
-### 3. **Forneça a Lista de Alunos**
+### 3. **Forneça a Lista de participantes**
 
-Prepare um arquivo CSV contendo o nome e o e-mail dos alunos, no seguinte formato (nome;email):
+Prepare um arquivo CSV contendo o nome e o e-mail dos participantes, no seguinte formato (nome;email):
 
 ```
 João Silva;joao@example.com
